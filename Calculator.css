@@ -16,7 +16,7 @@ body{
     overflow: hidden;
 }
 
-.display{
+#display{
     width: 298px;
     height: 100px;
     text-align: right;
